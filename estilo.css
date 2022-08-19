@@ -5,6 +5,7 @@ body {
 }
 h1 {
    text-align: center;
+   font-style: oblique;
 
 }
 .caixa1 {
@@ -74,10 +75,10 @@ li a:hover {
 
 }
 .rodape {
-   position: absolute;
+   position: fixed;
    bottom: 0;
    background: black;
-   color: burlywood;
+   color: rgb(135, 222, 203);
    width: 100%;
    left: 0;
    height: 40px;
@@ -88,4 +89,8 @@ li a:hover {
    position: absolute;
    top: 45px;
 
+}
+h3 {
+   font-size: x-large;
+   font-style: oblique;
 }
