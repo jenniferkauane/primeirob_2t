@@ -98,6 +98,50 @@ h3 {
    width: 30%;
 }
 
-.jenni2 {
-   position: center;
+.jei {
+   position: relative;
+   width: 90% ;
+   height: 200px ;
+   background: rgb(63, 54, 184);
+   top: 350px;
+   left: 0;
+   border-color: rgb(23, 25, 56);
+   border-width: 20px;
+   border-style: solid;
+   margin: 20px;
+   padding: 20px;
+   display: flex;
+   justify-content: start;
+}
+.jei2 {
+   position: absolute;
+   width: 90% ;
+   height: 200px ;
+   background: rgb(233, 44, 37);
+   top: 650px;
+   left: 0;
+   border-color: rgb(105, 13, 10);
+   border-width: 20px;
+   border-style: solid;
+   margin: 20px;
+   padding: 20px;
+   display: flex;
+   justify-content: start;
+
+}
+.jei3 {
+   position: absolute;
+   width: 90% ;
+   height: 200px ;
+   background: rgb(233, 44, 37);
+   top: 50px;
+   left: 0;
+   border-color: rgb(105, 13, 10);
+   border-width: 20px;
+   border-style: solid;
+   margin: 20px;
+   padding: 20px;
+   display: flex;
+   justify-content: start;
+
 }
